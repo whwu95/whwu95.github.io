@@ -1,0 +1,7 @@
+@inproceedings{wu2019multi,
+  title={Multi-Agent Reinforcement Learning Based Frame Sampling for Effective Untrimmed Video Recognition},
+  author={Wu, Wenhao and He, Dongliang and Tan, Xiao and Chen, Shifeng and Wen, Shilei},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={6222--6231},
+  year={2019}
+}
